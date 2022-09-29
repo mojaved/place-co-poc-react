@@ -9,7 +9,7 @@ const Header = (props) => {
   return (
     <div className="plate-co-header-navbar">
       <Link to={`/`}>
-        <h2>Plate Co App</h2>
+        <h2>Plate Co App - POC</h2>
       </Link>
       <Link to={`/cart`}>
         <div className="plate-co-header-cart">
