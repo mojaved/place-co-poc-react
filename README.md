@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `React JS`
 
 ## Storage
-`React Redux`
+### `React Redux`
 
 ## How to run the program
 
